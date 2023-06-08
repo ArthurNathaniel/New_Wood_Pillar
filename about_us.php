@@ -28,11 +28,9 @@
 
     <section>
         <div class="row story">
-            <div class="col-md-5">
-
-            </div>
-            <div class="col-md-7">
-                <h1>About Us</h1>
+            
+            <div class="col-md-12">
+                <h1 class="text-center">About Us</h1>
                 <p>
                     Wood Pillar Limited (WPL) is a limited liability company incorporated in June 1994 under
                     the companies Act, 1963(Act 179) situated in Kumasi, Ghana, for the manufacturing of

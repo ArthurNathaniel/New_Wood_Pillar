@@ -132,7 +132,6 @@ header {
 .welcome {
     padding: 0 5%;
     padding-block: 50px;
-    background-color: #f5f9f9;
     background-color: #508ace;
     color: #fff;
     margin-bottom: 50px;
@@ -145,7 +144,7 @@ header {
     align-items: flex-start;
     align-self: center;
     text-align: justify;
- 
+
 }
 
 .welcome_text h1 {
@@ -175,7 +174,8 @@ header {
     background-color: #fff;
     border: none;
 }
-.btn_ button a{
+
+.btn_ button a {
     text-decoration: none;
     color: #508ace;
 }
@@ -317,11 +317,11 @@ footer a:hover {
         justify-content: center;
         align-items: center;
         align-self: center;
-        
+
     }
 
     .grid {
-      
+
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -358,14 +358,15 @@ footer a:hover {
     .card {
         margin-bottom: 30px;
     }
-    .welcome{
-        border: 2px solid turquoise;
+
+    .welcome {
         display: flex;
         flex-direction: column;
         width: 100%;
     }
-    .welcome_img{
-        
+
+    .welcome_img {
+
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -373,7 +374,32 @@ footer a:hover {
         align-self: center;
         margin-bottom: 30px;
     }
-    .welcome_text{
+
+    .welcome_text {
         width: 100%;
+    }
+
+    .cta-section {
+
+        margin: 0;
+        width: 90%;
+        margin: 0 5%;
+        margin-bottom: 50px;
+
+    }
+
+    .contact,
+    .map,
+    .get,
+    .touch {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .touch{
+        margin-top: 40px;
+    }
+    .get{
+        margin-bottom: 50px;
     }
 }
