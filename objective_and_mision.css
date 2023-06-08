@@ -1,0 +1,68 @@
+.objective {
+    margin-block: 50px;
+    padding: 0 5%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.objective_text {
+    background-image: url(./images/bg.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 95%;
+    height: 100%;
+    padding: 70px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+   
+
+}
+.objective_text p{
+    width: 100%;
+    
+}
+
+.objective_text h2 {
+    text-align: center;
+}
+
+.mission_text {
+    background-image: url(./images/bg.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 95%;
+    height: 100%;
+    padding: 70px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+
+.mission_text h2 {
+    text-align: center;
+}
+
+@media (max-width:1000px) {
+    .objective{
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .mission_text{
+        margin: 0 auto;
+        margin-block: 50px;
+    }
+    .objective_text{
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+}
