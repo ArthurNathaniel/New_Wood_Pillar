@@ -29,7 +29,7 @@
     <section>
         <div class="corperate">
             <div class="environment_image">
-                <img src="https://placehold.jp/550x400.png" alt="">
+                <img src="./images/environment.png" alt="">
             </div>
             <div class="environment_text">
                 <h2>For the Environment</h2>
@@ -58,7 +58,7 @@
             </div>
 
             <div class="for_the_people_image">
-                <img src="https://placehold.jp/550x400.png" alt="">
+                <img src="images/for_the_people.png" alt="">
             </div>
 
         </div>
