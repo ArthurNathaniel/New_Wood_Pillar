@@ -33,15 +33,15 @@
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="forestry.php">Forestry</a></li>
-                        <li><a class="dropdown-item" href="">Production Line</a></li>
-                        <li><a class="dropdown-item" href="">Logs</a></li>
-                        <li><a class="dropdown-item" href="">Transportation</a></li>
-                        <li><a class="dropdown-item" href="">Quality Assurance</a></li>
+                        <li><a class="dropdown-item" href="production_line.php">Production Line</a></li>
+                        <li><a class="dropdown-item" href="logs.php">Logs</a></li>
+                        <li><a class="dropdown-item" href="transporation.php">Transportation</a></li>
+                        <li><a class="dropdown-item" href="quality_assurance.php">Quality Assurance</a></li>
                     </ul>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="">Gallery</a>
+                    <a class="nav-link" aria-current="page" href="gallery.php">Gallery</a>
                 </li>
 
                 <li class="nav-item">

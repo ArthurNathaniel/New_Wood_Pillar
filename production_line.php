@@ -9,7 +9,7 @@
     <?php include 'cdn.php'; ?>
     <title>Wood Pillar Limited</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="product_range.css">
+    <link rel="stylesheet" href="production_line.css">
 </head>
 
 <body>
@@ -28,52 +28,46 @@
 
     <section>
         <div class="text-center product_title">
-            <h1>Our Product Range</h1>
+            <h1>Our Production Line</h1>
         </div>
         <div class="product">
             <div class="product_item">
                 <p>
                     <i class="fas fa-check-circle"></i>
-                    Chenchen
+                    Peeler Line
                 </p>
                 <p>
                     <i class="fas fa-check-circle"></i>
-                    Ceiba
+                    Driers
                 </p>
                 <p>
                     <i class="fas fa-check-circle"></i>
-                    Asenfena
+                    Boiler
                 </p>
                 <p>
                     <i class="fas fa-check-circle"></i>
-                    Mansonia
+                    Hot Press Machine
                 </p>
-                <p>
-                    <i class="fas fa-check-circle"></i>
-                    Red Wood
-                </p>
+
             </div>
             <div class="product_item">
                 <p>
                     <i class="fas fa-check-circle"></i>
-                    Black Ofram
+                    Sizer
                 </p>
                 <p>
                     <i class="fas fa-check-circle"></i>
-                    Wawa
+                    Kuper Machine
                 </p>
                 <p>
                     <i class="fas fa-check-circle"></i>
-                    Kusia
+                    Knife Grinder
                 </p>
                 <p>
                     <i class="fas fa-check-circle"></i>
-                    Sauna
+                    Electric Guillotines
                 </p>
-                <p>
-                    <i class="fas fa-check-circle"></i>
-                    Dahoma
-                </p>
+
             </div>
         </div>
     </section>
@@ -83,22 +77,22 @@
             <div #swiperRef="" class="swiper mySwiper2">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <img src="./images/product-range-1.jpg" alt="">
+                        <img src="./images/production_line-01.jpg" alt="">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./images/product-range-2.jpg" alt="">
+                        <img src="./images/production_line-02.jpg" alt="">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./images/product-range-3.jpg" alt="">
+                        <img src="./images/production_line-03.jpg" alt="">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./images/product-range-04.jpg" alt="">
+                        <img src="./images/production_line-04.jpg" alt="">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./images/product-range-05.jpg" alt="">
+                        <img src="./images/production_line-05.jpg" alt="">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./images/product-range-06.jpg" alt="">
+                        <img src="./images/production_line-06.jpg" alt="">
                     </div>
                 </div>
 
