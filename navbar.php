@@ -41,11 +41,11 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="gallery.php">Gallery</a>
+                    <a class="nav-link" aria-current="page" href="">Gallery</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="contact.php">Contact Us</a>
+                    <a class="nav-link" aria-current="page" href="">Contact Us</a>
                 </li>
             </ul>
         </div>

@@ -3,13 +3,13 @@
 
     </div>
     <div class="footer-link">
-        <a href="">Home</a>
-        <a href="">About Us</a>
-        <a href="">Product Range</a>
-        <a href="">Forestry</a>
-        <a href="">Production Line</a>
-        <a href="">Logs</a>
-        <a href="">Transportation</a>
+        <a href="index.php">Home</a>
+        <a href="about_us.php">About Us</a>
+        <a href="product_range.php">Product Range</a>
+        <a href="forestry.php">Forestry</a>
+        <a href="production_line.php">Production Line</a>
+        <a href="logs.php">Logs</a>
+        <a href="transporation.php">Transportation</a>
     </div>
     <div class="footer-media">
         <a href=""><i class="fab fa-facebook"></i></a>

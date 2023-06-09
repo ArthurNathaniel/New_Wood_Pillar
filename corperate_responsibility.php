@@ -19,7 +19,7 @@
         <div class="swiper mySwiper">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <img src="https://placehold.jp/1800x600.png" alt="">
+                    <img src="./images/cp-bg.jpg" alt="">
                 </div>
             </div>
             <div class="swiper-pagination"></div>

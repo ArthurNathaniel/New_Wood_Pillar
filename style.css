@@ -144,7 +144,6 @@ header {
     align-items: flex-start;
     align-self: center;
     text-align: justify;
-
 }
 
 .welcome_text h1 {
@@ -158,8 +157,6 @@ header {
     justify-content: flex-start;
     align-self: left;
     align-items: flex-start;
-
-
 }
 
 .btn_ button {
@@ -208,10 +205,8 @@ header {
     align-items: center;
     align-self: center;
     background-image: url("./images/cover.jpg");
-
     /* Set a specific height */
     min-height: 450px;
-
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
@@ -236,7 +231,6 @@ header {
 
 .get {
     display: block;
-
 }
 
 .touch {
@@ -263,14 +257,12 @@ footer {
 footer a {
     text-decoration: none;
     color: #fff;
-
     margin: 10px;
     padding-bottom: 30px;
 }
 
 footer a:hover {
     font-weight: 900;
-
 }
 
 .footer-image {

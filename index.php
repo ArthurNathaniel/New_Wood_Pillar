@@ -20,16 +20,24 @@
             <div class="swiper mySwiper">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <img src="https://placehold.jp/1800x600.png" alt="">
+                        <img src="./images/wood_pillar_two.jpg" alt="">
                     </div>
                     <div class="swiper-slide">
-                        <img src="https://placehold.jp/1800x600.png" alt="">
+                        <img src="./images/wood_pillar.jpg" alt="">
                     </div>
+                    <!-- <div class="swiper-slide">
+                        <img src="./images/wood_pillar__.jpg" alt="">
+                    </div> -->
                     <div class="swiper-slide">
-                        <img src="https://placehold.jp/1800x600.png" alt="">
+                        <img src="./images/wp__.jpg" alt="">
                     </div>
+
+                    <!-- <div class="swiper-slide">
+                        <img src="./images/wood_pillar_three.jpeg" alt="">
+                    </div> -->
+
                 </div>
-                <div class="swiper-pagination"></div>
+                <!-- <div class="swiper-pagination"></div> -->
             </div>
         </section>
 
@@ -91,7 +99,7 @@
                     </p>
                     <div class="btn_">
                         <button>
-                            <a href="">Read More</a>
+                            <a href="about_us.php">Read More</a>
                         </button>
                     </div>
                 </div>
