@@ -30,10 +30,6 @@
             <div class="row core">
                 <div class="col-md-3 values">
                     <h1>Our Tenets of Excellence</h1>
-                    <p>
-                        <!-- Wood Pillar Limited is driven by a steadfast commitment to upholding the principles of quality,
-                    craftsmanship, and sustainability as the cornerstones of our operations. -->
-                    </p>
                 </div>
                 <div class="col-md-9">
                     <div class="grid">
