@@ -27,7 +27,7 @@
     </section>
 
     <section>
-        <div class="row contact">
+        <div class="row contact mt-5">
             <div class="col-md-6 map">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31704.152060158816!2d-1.574652!3d6.644561!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfdb93941ac48587%3A0xbb5cab912f211df9!2sWood%20Pillar%20Ltd!5e0!3m2!1sen!2sgh!4v1686166102809!5m2!1sen!2sgh" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>

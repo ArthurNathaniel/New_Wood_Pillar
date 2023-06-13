@@ -28,7 +28,7 @@
     <section>
         <div class="corperate">
             <div class="environment_image">
-                <img src="" alt="wood-pillar ltd concession image or photo">
+                <img src="images/environment.png" alt="wood-pillar ltd concession image or photo">
             </div>
             <div class="environment_text">
                 <h2>Concessions</h2>
@@ -72,7 +72,7 @@
             </div>
 
             <div class="for_the_people_image">
-                <img src="" alt="wood pillar ltd re-afforestation image or photo">
+                <img src="./images/re-afforestation.png" alt="wood pillar ltd re-afforestation image or photo">
             </div>
 
         </div>

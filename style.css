@@ -62,6 +62,20 @@ header {
     background-size: contain;
 }
 
+   .navbar-toggler {
+
+       border: none;
+       outline: none;
+       box-shadow: none;
+       color: #508ace;
+      
+   }
+   .navbar-toggler:focus,
+   .navbar-toggler:hover {
+    outline: none;
+        box-shadow: none;
+   }
+
 .swiper {
     width: 100%;
     height: 100%;
@@ -143,7 +157,7 @@ header {
     justify-content: center;
     align-items: flex-start;
     align-self: center;
-    text-align: justify;
+    text-align: justify;   
 }
 
 .welcome_text h1 {
@@ -206,14 +220,14 @@ header {
     align-self: center;
     background-image: url("./images/cover.jpg");
     /* Set a specific height */
-    min-height: 450px;
+    min-height: 250px;
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     padding: 0 5%;
-    padding-block: 70px;
+    padding-block: 20px;
     width: 100%;
     margin-bottom: 50px;
 }

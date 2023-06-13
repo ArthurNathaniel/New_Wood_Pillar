@@ -29,66 +29,96 @@
     <section>
         <h2 class="text-center mt-5">Photo Gallery</h2>
         <div class="gallery_">
-            <a href="./images/classroom-01.jpg" data-lightbox="gallery" data-title="Nagies Angels Educational Centre" download>
+            <a href="./images/product-range-1.jpg" data-lightbox="gallery" data-title="Wood Pillar Limited" download>
                 <div class="gallery-1">
 
                 </div>
             </a>
-            <a href="./images/classroom-02.jpg" data-lightbox="gallery" data-title="Nagies Angels Educational Centre" download>
+            <a href="./images/product-range-2.jpg" data-lightbox="gallery" data-title="Wood Pillar Limited" download>
                 <div class="gallery-2">
 
                 </div>
             </a>
-            <a href="./images/classroom-03.jpg" data-lightbox="gallery" data-title="Nagies Angels Educational Centre" download>
+            <a href="./images/product-range-3.jpg" data-lightbox="gallery" data-title="Wood Pillar Limited" download>
                 <div class="gallery-3">
 
                 </div>
             </a>
-            <a href="./images/classroom-04.jpg" data-lightbox="gallery" data-title="Nagies Angels Educational Centre" download>
+            <a href="./images/product-range-04.jpg" data-lightbox="gallery" data-title="Wood Pillar Limited" download>
                 <div class="gallery-4">
 
                 </div>
             </a>
-            <a href="./images/classroom-05.jpg" data-lightbox="gallery" data-title="Nagies Angels Educational Centre" download>
+            <a href="./images/product-range-05.jpg" data-lightbox="gallery" data-title="Wood Pillar Limited" download>
                 <div class="gallery-5">
 
                 </div>
             </a>
-            <a href="./images/classroom-06.jpg" data-lightbox="gallery" data-title="Nagies Angels Educational Centre" download>
+            <a href="./images/product-range-06.jpg" data-lightbox="gallery" data-title="Wood Pillar Limited" download>
                 <div class="gallery-6">
 
                 </div>
             </a>
-            <a href="./images/classroom-06.jpg" data-lightbox="gallery" data-title="Nagies Angels Educational Centre" download>
+            <!-- <a href="./images/gallery-07.jpg" data-lightbox="gallery" data-title="Wood Pillar Limited" download>
                 <div class="gallery-7">
 
                 </div>
             </a>
-            <a href="./images/classroom-06.jpg" data-lightbox="gallery" data-title="Nagies Angels Educational Centre" download>
+            <a href="./images/gallery-08.jpg" data-lightbox="gallery" data-title="Wood Pillar Limited" download>
                 <div class="gallery-8">
 
                 </div>
             </a>
-            <a href="./images/classroom-06.jpg" data-lightbox="gallery" data-title="Nagies Angels Educational Centre" download>
+            <a href="./images/gallery-09.jpg" data-lightbox="gallery" data-title="Wood Pillar Limited" download>
                 <div class="gallery-9">
 
                 </div>
             </a>
-            <a href="./images/classroom-06.jpg" data-lightbox="gallery" data-title="Nagies Angels Educational Centre" download>
+            <a href="./images/gallery-10.jpg" data-lightbox="gallery" data-title="Wood Pillar Limited" download>
                 <div class="gallery-10">
 
                 </div>
             </a>
-            <a href="./images/classroom-06.jpg" data-lightbox="gallery" data-title="Nagies Angels Educational Centre" download>
+            <a href="./images/gallery-11.jpg" data-lightbox="gallery" data-title="Wood Pillar Limited" download>
                 <div class="gallery-11">
 
                 </div>
             </a>
-            <a href="./images/classroom-06.jpg" data-lightbox="gallery" data-title="Nagies Angels Educational Centre" download>
+            <a href="./images/gallery-12.jpg" data-lightbox="gallery" data-title="Wood Pillar Limited" download>
                 <div class="gallery-12">
 
                 </div>
             </a>
+            <a href="./images/gallery-13.jpg" data-lightbox="gallery" data-title="Wood Pillar Limited" download>
+                <div class="gallery-13">
+
+                </div>
+            </a>
+            <a href="./images/gallery-14.jpg" data-lightbox="gallery" data-title="Wood Pillar Limited" download>
+                <div class="gallery-14">
+
+                </div>
+            </a>
+            <a href="./images/gallery-15.jpg" data-lightbox="gallery" data-title="Wood Pillar Limited" download>
+                <div class="gallery-15">
+
+                </div>
+            </a>
+            <a href="./images/gallery-16.jpg" data-lightbox="gallery" data-title="Wood Pillar Limited" download>
+                <div class="gallery-16">
+
+                </div>
+            </a>
+            <a href="./images/gallery-17.jpg" data-lightbox="gallery" data-title="Wood Pillar Limited" download>
+                <div class="gallery-17">
+
+                </div>
+            </a>
+            <a href="./images/gallery-18.jpg" data-lightbox="gallery" data-title="Wood Pillar Limited" download>
+                <div class="gallery-18">
+
+                </div>
+            </a> -->
         </div>
     </section>
 

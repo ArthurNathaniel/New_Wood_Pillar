@@ -11,12 +11,12 @@
         <a href="logs.php">Logs</a>
         <a href="transporation.php">Transportation</a>
     </div>
-    <div class="footer-media">
-        <a href=""><i class="fab fa-facebook"></i></a>
+    <!-- <div class="footer-media">
+        <a href="https://web.facebook.com/profile.php?id=100063726233891"><i class="fab fa-facebook"></i></a>
         <a href=""><i class="fab fa-twitter"></i></a>
         <a href=""> <i class="fab fa-instagram"></i></a>
-    </div>
-    <div class="text-center " style="padding-top:20px; color:#fff;">
+    </div> -->
+    <div class="text-center " style="color:#fff;">
         <span>
             Copyright &copy;
             <script>

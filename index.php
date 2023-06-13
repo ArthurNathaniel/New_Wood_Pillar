@@ -20,24 +20,9 @@
             <div class="swiper mySwiper">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <img src="./images/wood_pillar_two.jpg" alt="">
+                        <img src="./images/slide-two.jpg" alt="">
                     </div>
-                    <div class="swiper-slide">
-                        <img src="./images/wood_pillar.jpg" alt="">
-                    </div>
-                    <!-- <div class="swiper-slide">
-                        <img src="./images/wood_pillar__.jpg" alt="">
-                    </div> -->
-                    <div class="swiper-slide">
-                        <img src="./images/wp__.jpg" alt="">
-                    </div>
-
-                    <!-- <div class="swiper-slide">
-                        <img src="./images/wood_pillar_three.jpeg" alt="">
-                    </div> -->
-
                 </div>
-                <!-- <div class="swiper-pagination"></div> -->
             </div>
         </section>
 
@@ -86,16 +71,16 @@
                 <div class="col-md-7 welcome_text">
                     <h1>Welcome</h1>
                     <p>
-                        Wood Pillar Ltd has been in operations since 1994 and it is one of the leading and reputable
-                        companies in Ghana and in the West African sub-Region which is specialized in the production
-                        of Plywood and Rotary Veneer. <br>
-                        Our continuous checks of our products ensure superior quality in terms of strength and visual
-                        character and that makes the quality of our products second to none and customer satisfaction
-                        is our hallmark. "IT" was established in early 2000 which allows us directly control and manage
-                        the production of material in order to get a new product according to the standards of quality
-                        required. <br>
-                        Our products are currently sold in the Local Market (Ghana) and internationally, that is in (Europe
-                        and other Africa countries).
+                        Wood Pillar Ltd. has been in operation since 1994, and it is one of the leading and
+                        reputable companies in Ghana and in the West African sub-region that is specialized
+                        in the production of plywood and rotary veneer.
+                        <br>
+                        The continuous checks of our products ensure superior quality in terms of strength and
+                        visual character, quality of our products second to none, and customer satisfaction is
+                        our hallmark. "IT" was established in early 2000, which allows us to directly control and
+                        manage the production of material in order to get a new product according to the standards
+                        of quality required. Our products are sold in the local market (Ghana) and internationally,
+                        that is, in Europe and other African countries.
                     </p>
                     <div class="btn_">
                         <button>
@@ -115,10 +100,10 @@
                             Our Concessions
                         </h4>
                         <p class="card-text">
-                            Wood Pillar LTD has a significant presence in Ghana, where its logging concessions
-                            span thousands of hectares across several regions, including Ahafo, Ashanti, Central,
-                            Eastern and Western. This demonstrates the company's commitment to sustainable
-                            forestry practices and their ability to operate on a large scale.
+                            Wood Pillar LTD has a significant presence in Ghana, where its logging concessions span
+                            thousands of hectares across several regions, including Ahafo, Ashanti, Central, Eastern,
+                            and Western. This demonstrates the company's commitment to sustainable forestry practices
+                            and its ability to operate on a large scale.
                         </p>
 
                     </div>
@@ -129,11 +114,10 @@
                     <div class="card-body">
                         <h4 class="card-title">What We Do</h4>
                         <p class="card-text">
-                            At Wood Pillar LTD we sustainably manage and transform forest resources into high
-                            quality wood products, creating exceptional value for our customers, suppliers,
-                            employees and communities. We do so by engaging and collaborating with our employees
-                            and business partners, to improve continuously; so that we can be better at what we
-                            do every single day.
+                            At Wood Pillar LTD, we sustainably manage and transform forest resources into high-quality wood products,
+                            creating exceptional value for our customers, suppliers, employees, and communities. We do so by engaging
+                            and collaborating with our employees and business partners to continuously improve so that we can be better
+                            at what we do every single day.
                         </p>
 
                     </div>
@@ -143,10 +127,12 @@
                     <img class="card-img-top" src="./images/service.jpg" alt="Card image" style="width:100%">
                     <div class="card-body">
                         <h4 class="card-title">Other Services</h4>
-                        <p class="card-text">At Wood Pillar, our company's success is tied to the well-being of
-                            the environment. To ensure our production process is environmentally sustainable,
-                            we pay close attention to every detail. Beyond producing Veneer and Plywood, we
-                            are committed to promoting and developing forests, which is a crucial part of our vision. </p>
+                        <p class="card-text">
+                            At Wood Pillar, our company's success is tied to the well-being of the environment. 
+                            To ensure our production process is environmentally sustainable, we pay close attention
+                            to every detail. Beyond producing veneer and plywood, we are committed to promoting and
+                             developing forests, which is a crucial part of our vision.
+                        </p>
 
                     </div>
                 </div>
